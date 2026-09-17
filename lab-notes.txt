@@ -35,4 +35,4 @@ Results
 
 done
 
-Record actual results
+looking at the diff before the commit
